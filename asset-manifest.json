@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RaihanAkter03/Employee_Directory/static/css/main.6b6fad28.chunk.css",
+    "main.js": "/RaihanAkter03/Employee_Directory/static/js/main.7cc1dd83.chunk.js",
+    "main.js.map": "/RaihanAkter03/Employee_Directory/static/js/main.7cc1dd83.chunk.js.map",
+    "runtime-main.js": "/RaihanAkter03/Employee_Directory/static/js/runtime-main.b491726e.js",
+    "runtime-main.js.map": "/RaihanAkter03/Employee_Directory/static/js/runtime-main.b491726e.js.map",
+    "static/js/2.03741eb3.chunk.js": "/RaihanAkter03/Employee_Directory/static/js/2.03741eb3.chunk.js",
+    "static/js/2.03741eb3.chunk.js.map": "/RaihanAkter03/Employee_Directory/static/js/2.03741eb3.chunk.js.map",
+    "index.html": "/RaihanAkter03/Employee_Directory/index.html",
+    "static/css/main.6b6fad28.chunk.css.map": "/RaihanAkter03/Employee_Directory/static/css/main.6b6fad28.chunk.css.map",
+    "static/js/2.03741eb3.chunk.js.LICENSE.txt": "/RaihanAkter03/Employee_Directory/static/js/2.03741eb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b491726e.js",
+    "static/js/2.03741eb3.chunk.js",
+    "static/css/main.6b6fad28.chunk.css",
+    "static/js/main.7cc1dd83.chunk.js"
+  ]
+}
