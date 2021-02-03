@@ -1,3 +1,38 @@
+Git REPO:
+* https://github.com/RaihanAkter03/Employee_Directory
+
+Heroku URL :
+* https://infinite-chamber-12553.herokuapp.com/
+
+## User Story
+
+* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+
+## Description :
+
+* This is a reack application. Used free API to get random employees name , email, date of birth and phone number , gender and photo. Besically you will be able to view employees and filter by name , gender, age, phone and email. 
+
+* Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
+
+The user should be able to:
+
+  * Sort the table name and age as asending and desending order.
+
+  * Filter the users by name , email, phone, age and  gender. 
+
+![name](./name.PNG)
+![gender](./gender.PNG)
+![age](./age.PNG)
+![phone](./phone.PNG)
+![email](./email.PNG)
+
+## Technical overview 
+
+* Git Repository have two branches one main & gh-pages (holds the statis build)
+* public folder holds the index.html file and manifest.json files. 
+* src folder holds js, css , api files . 
+* deployed with react documentation  links given below.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
